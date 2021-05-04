@@ -1,27 +1,49 @@
-# MedArt
+# OUTPUTS:
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.7.
+## Home:
+![home (1)](https://user-images.githubusercontent.com/77727169/116962836-c8f50380-acc4-11eb-9ddd-6d0ea72e9d07.png)
 
-## Development server
+## About:
+![about](https://user-images.githubusercontent.com/77727169/116962859-de6a2d80-acc4-11eb-997a-e6b087fa6982.png)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## Contact:
+![contact](https://user-images.githubusercontent.com/77727169/116962873-e88c2c00-acc4-11eb-829f-60cdf49974c7.png)
 
-## Code scaffolding
+## Appointment:
+![appointment](https://user-images.githubusercontent.com/77727169/116962885-ef1aa380-acc4-11eb-9243-0c06633069fb.png)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Cardiology:
+![cardiology](https://user-images.githubusercontent.com/77727169/116962912-00fc4680-acc5-11eb-9e6a-17a3a2690320.png)
 
-## Build
+## Neurology:
+![neurology](https://user-images.githubusercontent.com/77727169/116962929-0eb1cc00-acc5-11eb-9347-76bfa029e311.png)
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+## Child Specialist:
+![child specialist](https://user-images.githubusercontent.com/77727169/116962949-1d987e80-acc5-11eb-8d4a-d34c20b0f9f0.png)
 
-## Running unit tests
+## Dentist:
+![dental](https://user-images.githubusercontent.com/77727169/116963003-4456b500-acc5-11eb-8979-fbfbc23712dc.png)
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## General Physician:
+![general physician](https://user-images.githubusercontent.com/77727169/116963016-50427700-acc5-11eb-89a0-503a4af6a9a6.png)
 
-## Running end-to-end tests
+## Gynacologist:
+![gyanacologist](https://user-images.githubusercontent.com/77727169/116963038-5df7fc80-acc5-11eb-9aa3-5fc4a0d668f6.png)
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+## Ophthalmologist:
+![ophthalmology](https://user-images.githubusercontent.com/77727169/116963069-6e0fdc00-acc5-11eb-9d2a-2886d4089037.png)
 
-## Further help
+## Traumatologist:
+![traumatology](https://user-images.githubusercontent.com/77727169/116963081-7700ad80-acc5-11eb-8106-6ce8b08c6fd3.png)
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## Location
+![location](https://user-images.githubusercontent.com/77727169/116963094-7ff17f00-acc5-11eb-8b54-971cc691d0a0.png)
+
+## Services:
+![service](https://user-images.githubusercontent.com/77727169/116963103-867ff680-acc5-11eb-898f-efb871137717.png)
+
+## Team
+![team](https://user-images.githubusercontent.com/77727169/116963112-8c75d780-acc5-11eb-819f-96118d1b4fd4.png)
+
+## Blogs:
+![blogs](https://user-images.githubusercontent.com/77727169/116963135-9ac3f380-acc5-11eb-9d9c-9c02287d6d92.png)
