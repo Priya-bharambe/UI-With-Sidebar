@@ -1,0 +1,21 @@
+.bg {
+    background-color: #086CF5;
+    color: white;
+    width: 100%;
+    height: auto;
+    /* padding: 50px; */
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.breadcrumb {
+    background-color: #086CF5;
+}
+
+.breadcrumb li+li::before {
+    color: white;
+    content: "|\00a0";
+}

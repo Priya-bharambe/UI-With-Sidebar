@@ -1,0 +1,68 @@
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-md-2" id="sidebar">
+            <nav id="sidebar">
+
+                <!-- <a href="#" class="img logo rounded-circle mb-5" style="background-image: url(images/logo.jpg);"></a> -->
+                <ul class="list-unstyled components mb-5"><br>
+                    <!-- <li>
+                        <a href="#">Dashboard</a>
+                    </li> -->
+                    <li>
+                        <a class="nav-link" href="#homeSubmenu" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle" style="font-size: 25px;">
+                            Department
+                        </a><br>
+                        <ul class="collapse list-unstyled" id="homeSubmenu"><br>
+                            <li>
+                                <a class="nav-link" routerLink="/neurology">Neurology</a>
+                            </li><br>
+                            <li>
+                                <a class="nav-link" routerLink="/opthalmology">Opthalmology</a>
+                            </li><br>
+                            <li>
+                                <a class="nav-link" routerLink="/gyno">Gynacologist</a>
+                            </li><br>
+                            <li>
+                                <a class="nav-link" routerLink="/childspecial">Child Specialist</a>
+                            </li><br>
+                            <li>
+                                <a class="nav-link" routerLink="/cardiology">Cardiology</a>
+                            </li><br>
+                            <li>
+                                <a class="nav-link" routerLink="/generalphysicain">General Physician</a>
+                            </li><br>
+                            <li>
+                                <a class="nav-link" routerLink="/dental">Dental</a>
+                            </li><br>
+                            <li>
+                                <a class="nav-link" routerLink="/traumatology">Traumatology</a>
+                            </li>
+                        </ul>
+                    </li><br>
+
+                    <li>
+                        <a class="nav-link" routerLink="/locations" style="font-size: 25px;">Locations</a>
+                    </li><br>
+
+                    <li>
+                        <a class="nav-link" routerLink="/blog" style="font-size: 25px;">Blog</a>
+                    </li><br>
+                    <li>
+                        <a class="nav-link" routerLink="/services" style="font-size: 25px;">Services</a>
+                    </li><br>
+                    <li>
+                        <a class="nav-link" routerLink="/team" style="font-size: 25px;">Our Teams</a>
+                    </li>
+                </ul>
+            </nav>
+
+        </div>
+
+        <!-- Page Content  -->
+        <div id="content" class="col-md-10">
+            <div>
+                <router-outlet></router-outlet>
+            </div>
+        </div>
+    </div>
+</div>
